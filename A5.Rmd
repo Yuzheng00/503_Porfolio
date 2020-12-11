@@ -1,0 +1,16 @@
+---
+title: "Assignment5"
+---
+
+This is a Static Visualization Assignment.<br>
+The tasks includes<br>
+1.Create visualizations to explore all accounts.<br>
+[task1](A5task1xyz.html)<br>
+2.Explore distribution of all loans<br>
+[task2](A5task2xyz.html)<br>
+3.Find relationship between a good or bad loan and the time between an account is opened an the loan is created<br>
+[task3](A5task3xyz.html)<br>
+4.Make a time series line plot for the behavior of the account over time<br>
+[task4](A5task4xyz.html)<br>
+5.Explore the validity of the data for the case whether or not an account has a credit card and whether or not they have associated credit card transactions.<br>
+[task5](pic/A5-5.png)

@@ -1,0 +1,7 @@
+---
+title: "Assignment6"
+---
+
+This assignment is the Geospatial Visualization Assignment.<br>
+I visualized historical US election data and unemployment rates across US counties using choropleths in this assignment.<br>
+[Assignment6](geospatial.html)
