@@ -4,6 +4,8 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "about"
+      href: about.html
     - text: "Project"
       href: project.html
     - text: "Assignment5"
